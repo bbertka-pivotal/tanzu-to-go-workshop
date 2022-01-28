@@ -17,5 +17,6 @@ kpack:
   # - dotnet-core
   # - go
   # - ruby
+  # - python
   # - php
   languages: [java]

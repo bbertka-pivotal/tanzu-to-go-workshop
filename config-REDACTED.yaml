@@ -19,6 +19,7 @@ kpack:
   # - go
   # - ruby
   # - php
+  # - python
   languages: [java]
 
 vendir:
